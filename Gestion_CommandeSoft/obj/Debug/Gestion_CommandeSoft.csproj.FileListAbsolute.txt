@@ -1,0 +1,442 @@
+c:\users\hervinus\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Gestion_CommandeSoft.exe.config
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Gestion_CommandeSoft.exe
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Gestion_CommandeSoft.pdb
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Guna.UI.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Guna.UI2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.csprojResolveAssemblyReference.cache
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmArticle.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmCategorie.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.FrmClient.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmCommande.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.DashBoard.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.frmHome.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Properties.Resources.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UcArticle.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UClient.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UCommande.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.csproj.GenerateResource.Cache
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.exe
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.pdb
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmPaiement.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Login.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Ucparam.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Xpo.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\stdole.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Xpo.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.PrintRibbonControllerResources.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.exe.licenses
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.liste_client.resources
+C:\Users\HERVINUS\documents\visual studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UcRapport.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Suivie_Commande.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Bon_de_livraison.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Factures.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Liste_de_commande.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.liste_paiements.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Recupaiement.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.ucPaiement.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Facture_Proformat.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.listeCommande_journalier.resources
+C:\Users\HERVINUS\Documents\Visual Studio 2015\Projects\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Liste_Paiement_journalier1.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Gestion_CommandeSoft.exe.config
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.exe
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.pdb
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Gestion_CommandeSoft.exe
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Gestion_CommandeSoft.pdb
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.Shared.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Xpo.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Guna.UI.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\Guna.UI2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.CodeParser.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\stdole.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Xpo.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.csprojResolveAssemblyReference.cache
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmArticle.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmCategorie.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.FrmClient.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmCommande.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Boxers.frmPaiement.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.DashBoard.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.frmHome.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Login.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.PrintRibbonControllerResources.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Properties.Resources.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Bon_de_livraison.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Factures.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Facture_Proformat.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.listeCommande_journalier.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.liste_client.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Liste_de_commande.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.liste_paiements.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Liste_Paiement_journalier1.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Recupaiement.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Rapport.Suivie_Commande.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UcArticle.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UClient.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UCommande.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.ucPaiement.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.Ucparam.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.UcRapport.resources
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.csproj.GenerateResource.Cache
+D:\Gestion_CommandeSoft\Gestion_CommandeSoft\obj\Debug\Gestion_CommandeSoft.exe.licenses
